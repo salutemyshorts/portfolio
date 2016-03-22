@@ -1,0 +1,30 @@
+body{
+	background-color: black
+}
+#background-info {
+	background-image: url("http://www.sports-logos-screensavers.com/user/Chicago_Cubs3.jpg");
+	width:98%;
+	height: 550px;
+	
+
+}
+p {
+	font-weight: bold;
+	font-family: serif;
+}
+.h2-class {
+	color: white;
+	font-family: monospace;
+}
+h3 {
+	color: white;
+	font-family: monospace;
+}
+h1 {
+	color: white;
+	font-family: monospace;
+}
+#github-link {
+	font-weight: bold;
+	font-size: 20px;
+}
